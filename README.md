@@ -1,1 +1,1 @@
-![PDP-MHW (Personnalisé)](https://user-images.githubusercontent.com/83555414/143789300-08319fd9-fc13-4365-bbba-11716c2e7c6b.png)
+![PDP-MHW (Personnalisé)](https://user-images.githubusercontent.com/83555414/143789316-8bd803c1-fb50-4c34-b6e4-3cad03d70f81.png)
