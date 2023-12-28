@@ -2,6 +2,7 @@
 ================================================================================================================================
 
 * 🌍  I'm based in Lyon, France
+*  ✉️  You can contact me at [dev.daya@pm.me](mailto:dev.daya@pm.me)
 
 <a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Pyramond?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
