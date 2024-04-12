@@ -3,8 +3,6 @@
 <a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Pyramond?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![wakatime](https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg)](https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96)
 
-<a href="https://github.com/Pyramond" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyramond&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Skills
 
 
