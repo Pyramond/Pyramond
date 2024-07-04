@@ -1,8 +1,8 @@
 👋 Dayamond
 ================================================================================================================================
 
-<p>
-  <a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://img.shields.io/github/followers/Pyramond?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
   </a>
   <a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96">
