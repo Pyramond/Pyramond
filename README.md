@@ -34,7 +34,7 @@
 
 <p>
     <img src="/icons/frameworks/fastapi.svg" alt="FastApi" width="40" height="40">
-    <img src="/icons/frameworks/express.svg" alt="Express" width="40" height="40">
+    <img src="/icons/frameworks/expressjs.svg" alt="Express" width="40" height="40">
     <img src="/icons/frameworks/nestjs.svg" alt="NestJs" width="40" height="40">
     <img src="/icons/frameworks/nextjs_icon_dark.svg" alt="NextJs" width="40" height="40">
     <img src="/icons/frameworks/tailwindcss.svg" alt="Tailwind" width="40" height="40">
@@ -44,7 +44,7 @@
 
 <p>
     <img src="/icons/others/docker.svg" alt="Docker" width="40" height="40">
-    <img src="/icons/others/igt.svg" alt="Git" width="40" height="40">
+    <img src="/icons/others/git.svg" alt="Git" width="40" height="40">
     <img src="/icons/others/linux.svg" alt="Linux" width="40" height="40">
     <img src="/icons/others/npm.svg" alt="npm" width="40" height="40">
     <img src="/icons/others/sqlite.svg" alt="Sqlite" width="40" height="40">
