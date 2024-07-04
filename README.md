@@ -6,9 +6,9 @@
 
 
 
-### Skills
+## Skills
 
-## Languages
+### Languages
 
 <p align="center">
     <img src="/icons/languages/c.svg" alt="C" width="40" height="40">
@@ -18,5 +18,5 @@
     <img src="/icons/languages/html5.svg" alt="HTML" width="40" height="40">
     <img src="/icons/languages/css.svg" alt="CSS" width="40" height="40">
     <img src="/icons/languages/sass.svg" alt="Sass" width="40" height="40">
-    <img src="/icons/languages/markdown.svg" alt="Markdown" width="40" height="40">
+    <img src="/icons/languages/markdown-light.svg" alt="Markdown" width="40" height="40">
 </p>
