@@ -2,12 +2,15 @@
 ================================================================================================================================
 
 
-<a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer" style="margin: 10px;">
-  <img src="https://img.shields.io/github/followers/Pyramond?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
-</a>
-<a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96">
-  <img src="https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg" alt="Total time coded since Aug 6 2023" />
-</a>
+<p style="text-align: center;">
+  <a href="https://www.github.com/Pyramond" target="_blank" rel="noreferrer" style="display: block; margin-bottom: 10px;">
+    <img src="https://img.shields.io/github/followers/Pyramond?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  </a>
+  <a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96" style="display: block; margin-bottom: 10px;">
+    <img src="https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg" alt="Total time coded since Aug 6 2023" />
+  </a>
+</p>
+
 
 
 
