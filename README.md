@@ -1,9 +1,11 @@
 👋 Dayamond
 ================================================================================================================================
 
-<a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96">
-  <img src="https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg" alt="Total time coded since Aug 6 2023" />
-</a>
+<p align="center">
+  <a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96">
+    <img src="https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg" alt="Total time coded since Aug 6 2023" />  
+  </a>
+</p>
 
 
 
