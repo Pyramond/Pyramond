@@ -24,7 +24,7 @@
     <img src="/icons/languages/markdown-light.svg" alt="Markdown" width="40" height="40">
 </p>
 
-### Library
+### Libraries
 
 <p>
     <img src="/icons/libs/react.svg" alt="React" width="40" height="40">
