@@ -52,4 +52,8 @@
     <img src="/icons/others/npm.svg" alt="npm" width="40" height="40">
     <img src="/icons/others/sqlite.svg" alt="Sqlite" width="40" height="40">
     <img src="/icons/others/vitejs.svg" alt="ViteJs" width="40" height="40">
-</p>
+</p
+
+
+![](https://github-readme-stats.vercel.app/api?username=Pyramond&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyramond&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
