@@ -2,12 +2,6 @@
 ================================================================================================================================
 
 <p align="center">
-  <a href="https://wakatime.com/@c61834db-f21c-47b9-ae3c-18cc130c0d96">
-    <img src="https://wakatime.com/badge/user/c61834db-f21c-47b9-ae3c-18cc130c0d96.svg" alt="Total time coded since Aug 6 2023" />  
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyramond&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Pyramond&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
