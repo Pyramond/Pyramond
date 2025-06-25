@@ -14,14 +14,13 @@
 ### Languages
 
 <p>
-    <img src="/icons/languages/c.svg" alt="C" width="40" height="40">
+    <img src="/icons/languages/cpp.svg" alt="C" width="40" height="40">
     <img src="/icons/languages/python.svg" alt="Python" width="40" height="40">
     <img src="/icons/languages/typescript.svg" alt="Typescript" width="40" height="40">
     <img src="/icons/languages/javascript.svg" alt="Javascript" width="40" height="40">
     <img src="/icons/languages/html5.svg" alt="HTML" width="40" height="40">
     <img src="/icons/languages/css.svg" alt="CSS" width="40" height="40">
-    <img src="/icons/languages/sass.svg" alt="Sass" width="40" height="40">
-    <img src="/icons/languages/markdown-light.svg" alt="Markdown" width="40" height="40">
+    <img src="/icons/languages/java.svg" alt="Sass" width="40" height="40">
 </p>
 
 ### Libraries
@@ -37,10 +36,9 @@
 
 <p>
     <img src="/icons/frameworks/fastapi.svg" alt="FastApi" width="40" height="40">
-    <img src="/icons/frameworks/expressjs.svg" alt="Express" width="40" height="40">
     <img src="/icons/frameworks/nestjs.svg" alt="NestJs" width="40" height="40">
     <img src="/icons/frameworks/nextjs_icon_dark.svg" alt="NextJs" width="40" height="40">
-    <img src="/icons/frameworks/tailwindcss.svg" alt="Tailwind" width="40" height="40">
+    <img src="/icons/frameworks/react-native.svg" alt="Tailwind" width="40" height="40">
 </p>
 
 ### Others
@@ -52,4 +50,5 @@
     <img src="/icons/others/npm.svg" alt="npm" width="40" height="40">
     <img src="/icons/others/sqlite.svg" alt="Sqlite" width="40" height="40">
     <img src="/icons/others/vitejs.svg" alt="ViteJs" width="40" height="40">
+    <img src="/icons/others/firebase.svg" alt="ViteJs" width="40" height="40">
 </p
